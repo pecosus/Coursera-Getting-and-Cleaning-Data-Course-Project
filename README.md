@@ -1,4 +1,22 @@
-# Coursera-Getting-and-Cleaning-Data-Course-Project
+# Getting-and-Cleaning-Data-Assignment
+***  
+
+## About this repository 
+ 
+This repository was created for the peer-graded assignment of: 
+
+> Course 3: Getting And Cleaning Data, 
+> from Data Science Specialization, 
+> by Johns Hopkins University, 
+> on coursera  
+
+The course is taught by: 
+ 
+  - Jeff Leek, Phd 
+  - Roger D. Peng, Phd
+  - Brian Caffo, Phd
+
+The script performs the following tasks:
 
 1. Load data
 2. Merges the training and the test sets to create one data set.
